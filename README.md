@@ -1,0 +1,2 @@
+# vizsga
+nem a vizsga
